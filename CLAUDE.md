@@ -58,10 +58,10 @@ xcodebuild -create-xcframework \
 ## Dependencies
 
 Defined in `gradle/libs.versions.toml`:
-- Kotlin 2.0.21
-- Ktor 2.3.12 (networking)
-- Coroutines 1.8.1
-- Serialization 1.7.3
+- Kotlin 2.3.21
+- Ktor 3.6.0 (networking)
+- Coroutines 1.11.0
+- Serialization 1.11.0
 
 ## Package Structure
 
