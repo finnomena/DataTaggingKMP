@@ -59,7 +59,7 @@ xcodebuild -create-xcframework \
 
 Defined in `gradle/libs.versions.toml`:
 - Kotlin 2.3.21
-- Ktor 3.6.0 (networking)
+- Ktor 3.5.2 (networking)
 - Coroutines 1.11.0
 - Serialization 1.11.0
 
